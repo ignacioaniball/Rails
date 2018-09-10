@@ -13,3 +13,9 @@ two:
    image_url: "lorem.jpg"
    string: MyString
    price: 99.9
+
+ruby:
+  title: programming Ruby 1.9
+  description: Ruby is fastest
+  price: 49.99
+  image_url: ruby.png   
